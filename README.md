@@ -1,0 +1,2 @@
+The Customer Analysis Dashboard gives sales, revenue, and profit figures by product, region, and customer name, as well as by sales channel. You can also group products according to your own preference, so you could group according to the type of product or the sales value.
+You can see total profit, growth compared to the year before, and profit margins by customer. Work out your most profitable customers and look for other, similar clients, to further enhance your profit levels.
